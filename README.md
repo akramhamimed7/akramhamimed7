@@ -96,7 +96,6 @@ Automatisation du provisionnement d'une infrastructure de surveillance de sécur
 Mise en place d'une infrastructure cloud complète (calcul, stockage, réseau) et gestion centralisée des ressources.
 `OpenStack` `Horizon` `CLI` `Bash` `Ubuntu Server`
 
-> 💡 *N'oublie pas de remplacer les `#` par les liens vers tes dépôts GitHub une fois que tu les auras mis en ligne.*
 
 ---
 
